@@ -1,3 +1,5 @@
+# Arduino based Chess Timer
+
 Materials used- 
 
 1. Arduino UNO
